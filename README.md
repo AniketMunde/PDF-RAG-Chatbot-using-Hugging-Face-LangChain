@@ -1,6 +1,6 @@
 
 
-```markdown
+```
 # 📚 PDF-RAG Chatbot using Hugging Face & LangChain
 
 A **Retrieval-Augmented Generation (RAG) Chatbot** that allows users to upload PDFs and ask questions based on their content. Built using **Hugging Face Transformers, LangChain, and FAISS**, this chatbot processes and stores document embeddings for efficient retrieval and AI-powered responses.
@@ -91,7 +91,7 @@ This project is **MIT Licensed**. You are free to modify and distribute it.
 
 ---
 
-🚀 **Built with ❤️ by Aniket Munde**
+🚀 **Built by Aniket Munde**
 ```
 
 ---
